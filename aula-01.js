@@ -1,5 +1,4 @@
 function acenderLampada() {
-  // Comentário
   document.getElementById("lampada").src = "./lampada/acesa.png";
 }
 
