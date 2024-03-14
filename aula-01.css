@@ -1,0 +1,18 @@
+body{
+  background-color: #333;
+}
+
+img{
+  width: 200px;
+  height: 200px; 
+}
+
+#titulo{
+  color: #fff;
+  font-size: 30px;
+}
+
+.titulo{
+  color: #fff;
+  font-size: 40px;
+}
